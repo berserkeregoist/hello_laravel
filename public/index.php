@@ -43,7 +43,7 @@ require __DIR__.'/../vendor/autoload.php';
 | to this client's browser, allowing them to enjoy our application.
 |
 */
-// code _ test egoist one
+// code _ test egoist two
 $app = require_once __DIR__.'/../bootstrap/app.php';
 
 $kernel = $app->make(Kernel::class);
